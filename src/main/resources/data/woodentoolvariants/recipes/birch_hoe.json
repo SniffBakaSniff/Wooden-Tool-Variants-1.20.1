@@ -3,18 +3,19 @@
   "category": "equipment",
   "key": {
     "#": {
-      "item": "minecraft:stick"
+      "tag": "forge:rods/wooden"
     },
     "X": {
-      "item": "minecraft:oak_planks"
+      "item": "minecraft:birch_planks"
     }
   },
   "pattern": [
-    "XXX",
+    "XX ",
     " # ",
     " # "
   ],
   "result": {
-    "item": "minecraft:wooden_pickaxe"
-  }
+    "item": "woodentoolvariants:birch_hoe"
+  },
+  "show_notification": true
 }

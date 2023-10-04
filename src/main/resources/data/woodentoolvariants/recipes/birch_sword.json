@@ -10,12 +10,12 @@
     }
   },
   "pattern": [
-    "XXX",
-    " # ",
+    " X ",
+    " X ",
     " # "
   ],
   "result": {
-    "item": "woodentoolvariants:birch_pickaxe"
+    "item": "woodentoolvariants:birch_sword"
   },
   "show_notification": true
 }

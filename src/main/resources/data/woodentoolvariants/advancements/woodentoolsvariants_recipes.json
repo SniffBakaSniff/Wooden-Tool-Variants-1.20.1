@@ -1,0 +1,50 @@
+{
+    "display": {
+        "title": {
+            "text": "Wooden Tool Variants!"
+        },
+        "description": {
+            "text": "You have unlocked all the wooden tool variants recipes!!"
+        },
+        "icon": {
+            "item": "woodentoolvariants:birch_pickaxe"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "WoodenTools": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "count": {
+                            "min": 1,
+                            "max": 1
+                        },
+                        "tag": "minecraft:logs"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "WoodenTools"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "woodentoolvariants:birch_pickaxe",
+            "woodentoolvariants:birch_sword",
+            "woodentoolvariants:birch_axe",
+            "woodentoolvariants:birch_shovel",
+            "woodentoolvariants:birch_hoe"
+
+
+        ]
+    }
+}

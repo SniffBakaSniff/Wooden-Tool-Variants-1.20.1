@@ -6,7 +6,7 @@
       "tag": "forge:rods/wooden"
     },
     "X": {
-      "item": "minecraft:birch_planks"
+      "item": "minecraft:oak_planks"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
     " # "
   ],
   "result": {
-    "item": "woodentoolvariants:birch_pickaxe"
+    "item": "minecraft:wooden_pickaxe"
   },
   "show_notification": true
 }

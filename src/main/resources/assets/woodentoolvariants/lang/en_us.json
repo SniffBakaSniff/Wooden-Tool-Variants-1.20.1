@@ -1,5 +1,10 @@
 {
   "item.woodentoolvariants.birch_pickaxe": "Birch Pickaxe",
+  "item.woodentoolvariants.birch_sword": "Birch Sword",
+  "item.woodentoolvariants.birch_axe": "Birch Axe",
+  "item.woodentoolvariants.birch_shovel": "Birch Shovel",
+  "item.woodentoolvariants.birch_hoe": "Birch Hoe",
+
 
 
   "creativetab.wooden_tool_variants_tab": "Wooden Tool Variants"

@@ -20,6 +20,10 @@ public class ModCreativeModeTabs {
                     .title(Component.translatable("creativetab.wooden_tool_variants_tab"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.BIRCH_PICKAXE.get());
+                        pOutput.accept(ModItems.BIRCH_SWORD.get());
+                        pOutput.accept(ModItems.BIRCH_AXE.get());
+                        pOutput.accept(ModItems.BIRCH_SHOVEL.get());
+                        pOutput.accept(ModItems.BIRCH_HOE.get());
 
                         pOutput.accept(Items.WOODEN_PICKAXE);
                     })
