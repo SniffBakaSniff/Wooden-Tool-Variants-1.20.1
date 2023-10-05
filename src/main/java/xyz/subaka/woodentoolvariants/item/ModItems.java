@@ -27,6 +27,48 @@ public class ModItems {
     public static final RegistryObject<Item> BIRCH_HOE = ITEMS.register("birch_hoe",
             () -> new HoeItem(Tiers.WOOD, 0, -3, new Item.Properties()));
 
+    public static final RegistryObject<Item> WARPED_SWORD = ITEMS.register("warped_sword",
+            () -> new SwordItem(Tiers.WOOD, 3, -2.4F, new Item.Properties()));
+    public static final RegistryObject<Item> WARPED_PICKAXE = ITEMS.register("warped_pickaxe",
+            () -> new PickaxeItem(Tiers.WOOD, 1, -2.8F, new Item.Properties()));
+
+    public static final RegistryObject<Item> WARPED_AXE = ITEMS.register("warped_axe",
+            () -> new AxeItem(Tiers.WOOD, 6, -3.2F, new Item.Properties()));
+
+    public static final RegistryObject<Item> WARPED_SHOVEL = ITEMS.register("warped_shovel",
+            () -> new ShovelItem(Tiers.WOOD, 1.5F, -3, new Item.Properties()));
+
+    public static final RegistryObject<Item> WARPED_HOE = ITEMS.register("warped_hoe",
+            () -> new HoeItem(Tiers.WOOD, 0, -3, new Item.Properties()));
+
+    public static final RegistryObject<Item> CRIMSON_SWORD = ITEMS.register("crimson_sword",
+            () -> new SwordItem(Tiers.WOOD, 3, -2.4F, new Item.Properties()));
+    public static final RegistryObject<Item> CRIMSON_PICKAXE = ITEMS.register("crimson_pickaxe",
+            () -> new PickaxeItem(Tiers.WOOD, 1, -2.8F, new Item.Properties()));
+
+    public static final RegistryObject<Item> CRIMSON_AXE = ITEMS.register("crimson_axe",
+            () -> new AxeItem(Tiers.WOOD, 6, -3.2F, new Item.Properties()));
+
+    public static final RegistryObject<Item> CRIMSON_SHOVEL = ITEMS.register("crimson_shovel",
+            () -> new ShovelItem(Tiers.WOOD, 1.5F, -3, new Item.Properties()));
+
+    public static final RegistryObject<Item> CRIMSON_HOE = ITEMS.register("crimson_hoe",
+            () -> new HoeItem(Tiers.WOOD, 0, -3, new Item.Properties()));
+
+    public static final RegistryObject<Item> MANGROVE_SWORD = ITEMS.register("mangrove_sword",
+            () -> new SwordItem(Tiers.WOOD, 3, -2.4F, new Item.Properties()));
+    public static final RegistryObject<Item> MANGROVE_PICKAXE = ITEMS.register("mangrove_pickaxe",
+            () -> new PickaxeItem(Tiers.WOOD, 1, -2.8F, new Item.Properties()));
+
+    public static final RegistryObject<Item> MANGROVE_AXE = ITEMS.register("mangrove_axe",
+            () -> new AxeItem(Tiers.WOOD, 6, -3.2F, new Item.Properties()));
+
+    public static final RegistryObject<Item> MANGROVE_SHOVEL = ITEMS.register("mangrove_shovel",
+            () -> new ShovelItem(Tiers.WOOD, 1.5F, -3, new Item.Properties()));
+
+    public static final RegistryObject<Item> MANGROVE_HOE = ITEMS.register("mangrove_hoe",
+            () -> new HoeItem(Tiers.WOOD, 0, -3, new Item.Properties()));
+
 
 
 

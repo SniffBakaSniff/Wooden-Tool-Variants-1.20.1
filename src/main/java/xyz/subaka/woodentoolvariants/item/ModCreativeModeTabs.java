@@ -19,13 +19,30 @@ public class ModCreativeModeTabs {
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(Items.WOODEN_PICKAXE))
                     .title(Component.translatable("creativetab.wooden_tool_variants_tab"))
                     .displayItems((pParameters, pOutput) -> {
-                        pOutput.accept(ModItems.BIRCH_PICKAXE.get());
                         pOutput.accept(ModItems.BIRCH_SWORD.get());
+                        pOutput.accept(ModItems.BIRCH_PICKAXE.get());
                         pOutput.accept(ModItems.BIRCH_AXE.get());
                         pOutput.accept(ModItems.BIRCH_SHOVEL.get());
                         pOutput.accept(ModItems.BIRCH_HOE.get());
 
-                        pOutput.accept(Items.WOODEN_PICKAXE);
+                        pOutput.accept(ModItems.WARPED_SWORD.get());
+                        pOutput.accept(ModItems.WARPED_PICKAXE.get());
+                        pOutput.accept(ModItems.WARPED_AXE.get());
+                        pOutput.accept(ModItems.WARPED_SHOVEL.get());
+                        pOutput.accept(ModItems.WARPED_HOE.get());
+
+                        pOutput.accept(ModItems.CRIMSON_SWORD.get());
+                        pOutput.accept(ModItems.CRIMSON_PICKAXE.get());
+                        pOutput.accept(ModItems.CRIMSON_AXE.get());
+                        pOutput.accept(ModItems.CRIMSON_SHOVEL.get());
+                        pOutput.accept(ModItems.CRIMSON_HOE.get());
+
+                        pOutput.accept(ModItems.MANGROVE_SWORD.get());
+                        pOutput.accept(ModItems.MANGROVE_PICKAXE.get());
+                        pOutput.accept(ModItems.MANGROVE_AXE.get());
+                        pOutput.accept(ModItems.MANGROVE_SHOVEL.get());
+                        pOutput.accept(ModItems.MANGROVE_HOE.get());
+
                     })
                     .build());
 
