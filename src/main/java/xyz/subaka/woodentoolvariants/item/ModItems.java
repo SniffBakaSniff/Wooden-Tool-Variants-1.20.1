@@ -69,6 +69,20 @@ public class ModItems {
     public static final RegistryObject<Item> MANGROVE_HOE = ITEMS.register("mangrove_hoe",
             () -> new HoeItem(Tiers.WOOD, 0, -3, new Item.Properties()));
 
+    public static final RegistryObject<Item> CHERRY_SWORD = ITEMS.register("cherry_sword",
+            () -> new SwordItem(Tiers.WOOD, 3, -2.4F, new Item.Properties()));
+    public static final RegistryObject<Item> CHERRY_PICKAXE = ITEMS.register("cherry_pickaxe",
+            () -> new PickaxeItem(Tiers.WOOD, 1, -2.8F, new Item.Properties()));
+
+    public static final RegistryObject<Item> CHERRY_AXE = ITEMS.register("cherry_axe",
+            () -> new AxeItem(Tiers.WOOD, 6, -3.2F, new Item.Properties()));
+
+    public static final RegistryObject<Item> CHERRY_SHOVEL = ITEMS.register("cherry_shovel",
+            () -> new ShovelItem(Tiers.WOOD, 1.5F, -3, new Item.Properties()));
+
+    public static final RegistryObject<Item> CHERRY_HOE = ITEMS.register("cherry_hoe",
+            () -> new HoeItem(Tiers.WOOD, 0, -3, new Item.Properties()));
+
 
 
 

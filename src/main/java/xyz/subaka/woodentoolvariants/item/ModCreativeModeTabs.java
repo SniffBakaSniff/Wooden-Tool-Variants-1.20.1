@@ -16,9 +16,15 @@ public class ModCreativeModeTabs {
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, WoodenToolVariants.MOD_ID);
 
     public static final RegistryObject<CreativeModeTab> WOODEN_TOOL_VARIANTS_TAB = CREATIVE_MODE_TABS.register("wooden_tool_variants",
-            () -> CreativeModeTab.builder().icon(() -> new ItemStack(Items.WOODEN_PICKAXE))
+            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.WARPED_AXE.get()))
                     .title(Component.translatable("creativetab.wooden_tool_variants_tab"))
                     .displayItems((pParameters, pOutput) -> {
+                        pOutput.accept(Items.WOODEN_SWORD);
+                        pOutput.accept(Items.WOODEN_PICKAXE);
+                        pOutput.accept(Items.WOODEN_AXE);
+                        pOutput.accept(Items.WOODEN_SHOVEL);
+                        pOutput.accept(Items.WOODEN_HOE);
+
                         pOutput.accept(ModItems.BIRCH_SWORD.get());
                         pOutput.accept(ModItems.BIRCH_PICKAXE.get());
                         pOutput.accept(ModItems.BIRCH_AXE.get());
@@ -42,6 +48,12 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.MANGROVE_AXE.get());
                         pOutput.accept(ModItems.MANGROVE_SHOVEL.get());
                         pOutput.accept(ModItems.MANGROVE_HOE.get());
+
+                        pOutput.accept(ModItems.CHERRY_SWORD.get());
+                        pOutput.accept(ModItems.CHERRY_PICKAXE.get());
+                        pOutput.accept(ModItems.CHERRY_AXE.get());
+                        pOutput.accept(ModItems.CHERRY_SHOVEL.get());
+                        pOutput.accept(ModItems.CHERRY_HOE.get());
 
                     })
                     .build());

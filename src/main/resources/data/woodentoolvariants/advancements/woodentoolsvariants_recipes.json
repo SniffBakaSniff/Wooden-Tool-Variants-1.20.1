@@ -43,21 +43,30 @@
             "woodentoolvariants:birch_axe",
             "woodentoolvariants:birch_shovel",
             "woodentoolvariants:birch_hoe",
+
             "woodentoolvariants:warped_pickaxe",
             "woodentoolvariants:warped_sword",
             "woodentoolvariants:warped_axe",
             "woodentoolvariants:warped_shovel",
             "woodentoolvariants:warped_hoe",
+
             "woodentoolvariants:crimson_pickaxe",
             "woodentoolvariants:crimson_sword",
             "woodentoolvariants:crimson_axe",
             "woodentoolvariants:crimson_shovel",
             "woodentoolvariants:crimson_hoe",
+
             "woodentoolvariants:mangrove_pickaxe",
             "woodentoolvariants:mangrove_sword",
             "woodentoolvariants:mangrove_axe",
             "woodentoolvariants:mangrove_shovel",
-            "woodentoolvariants:mangrove_hoe"
+            "woodentoolvariants:mangrove_hoe",
+
+            "woodentoolvariants:cherry_pickaxe",
+            "woodentoolvariants:cherry_sword",
+            "woodentoolvariants:cherry_axe",
+            "woodentoolvariants:cherry_shovel",
+            "woodentoolvariants:cherry_hoe"
         ]
     }
 }
