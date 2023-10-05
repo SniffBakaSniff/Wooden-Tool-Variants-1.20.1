@@ -55,6 +55,18 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.CHERRY_SHOVEL.get());
                         pOutput.accept(ModItems.CHERRY_HOE.get());
 
+                        pOutput.accept(ModItems.DARK_OAK_SWORD.get());
+                        pOutput.accept(ModItems.DARK_OAK_PICKAXE.get());
+                        pOutput.accept(ModItems.DARK_OAK_AXE.get());
+                        pOutput.accept(ModItems.DARK_OAK_SHOVEL.get());
+                        pOutput.accept(ModItems.DARK_OAK_HOE.get());
+
+                        pOutput.accept(ModItems.SPRUCE_SWORD.get());
+                        pOutput.accept(ModItems.SPRUCE_PICKAXE.get());
+                        pOutput.accept(ModItems.SPRUCE_AXE.get());
+                        pOutput.accept(ModItems.SPRUCE_SHOVEL.get());
+                        pOutput.accept(ModItems.SPRUCE_HOE.get());
+
                     })
                     .build());
 

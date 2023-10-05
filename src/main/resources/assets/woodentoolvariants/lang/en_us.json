@@ -29,6 +29,18 @@
   "item.woodentoolvariants.cherry_shovel": "Cherry Shovel",
   "item.woodentoolvariants.cherry_hoe": "Cherry Hoe",
 
+  "item.woodentoolvariants.dark_oak_axe": "Dark Oak Axe",
+  "item.woodentoolvariants.dark_oak_pickaxe": "Dark Oak Pickaxe",
+  "item.woodentoolvariants.dark_oak_sword": "Dark Oak Sword",
+  "item.woodentoolvariants.dark_oak_shovel": "Dark Oak Shovel",
+  "item.woodentoolvariants.dark_oak_hoe": "Dark Oak Hoe",
+
+  "item.woodentoolvariants.spruce_axe": "Spruce Axe",
+  "item.woodentoolvariants.spruce_pickaxe": "Spruce Pickaxe",
+  "item.woodentoolvariants.spruce_sword": "Spruce word",
+  "item.woodentoolvariants.spruce_shovel": "Spruce Shovel",
+  "item.woodentoolvariants.spruce_hoe": "Spruce Hoe",
+
 
   "creativetab.wooden_tool_variants_tab": "Wooden Tool Variants"
 }

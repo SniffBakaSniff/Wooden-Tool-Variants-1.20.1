@@ -66,7 +66,19 @@
             "woodentoolvariants:cherry_sword",
             "woodentoolvariants:cherry_axe",
             "woodentoolvariants:cherry_shovel",
-            "woodentoolvariants:cherry_hoe"
+            "woodentoolvariants:cherry_hoe",
+
+            "woodentoolvariants:dark_oak_pickaxe",
+            "woodentoolvariants:dark_oak_sword",
+            "woodentoolvariants:dark_oak_axe",
+            "woodentoolvariants:dark_oak_shovel",
+            "woodentoolvariants:dark_oak_hoe",
+
+            "woodentoolvariants:spruce_pickaxe",
+            "woodentoolvariants:spruce_sword",
+            "woodentoolvariants:spruce_axe",
+            "woodentoolvariants:spruce_shovel",
+            "woodentoolvariants:spruce_hoe"
         ]
     }
 }
