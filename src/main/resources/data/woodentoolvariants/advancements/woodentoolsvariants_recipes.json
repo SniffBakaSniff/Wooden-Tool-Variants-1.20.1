@@ -78,7 +78,25 @@
             "woodentoolvariants:spruce_sword",
             "woodentoolvariants:spruce_axe",
             "woodentoolvariants:spruce_shovel",
-            "woodentoolvariants:spruce_hoe"
+            "woodentoolvariants:spruce_hoe",
+
+            "woodentoolvariants:acacia_pickaxe",
+            "woodentoolvariants:acacia_sword",
+            "woodentoolvariants:acacia_axe",
+            "woodentoolvariants:acacia_shovel",
+            "woodentoolvariants:acacia_hoe",
+
+            "woodentoolvariants:bamboo_pickaxe",
+            "woodentoolvariants:bamboo_sword",
+            "woodentoolvariants:bamboo_axe",
+            "woodentoolvariants:bamboo_shovel",
+            "woodentoolvariants:bamboo_hoe",
+
+            "woodentoolvariants:jungle_pickaxe",
+            "woodentoolvariants:jungle_sword",
+            "woodentoolvariants:jungle_axe",
+            "woodentoolvariants:jungle_shovel",
+            "woodentoolvariants:jungle_hoe"
         ]
     }
 }
