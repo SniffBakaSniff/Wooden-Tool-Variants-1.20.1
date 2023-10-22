@@ -1,0 +1,102 @@
+{
+    "display": {
+        "title": {
+            "text": "Wooden Tool Variants!"
+        },
+        "description": {
+            "text": "You have unlocked all the wooden tool variants recipes!!"
+        },
+        "icon": {
+            "item": "woodentoolvariants:warped_axe"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "WoodenTools": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "count": {
+                            "min": 1,
+                            "max": 1
+                        },
+                        "tag": "minecraft:logs"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "WoodenTools"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "woodentoolvariants:birch_pickaxe",
+            "woodentoolvariants:birch_sword",
+            "woodentoolvariants:birch_axe",
+            "woodentoolvariants:birch_shovel",
+            "woodentoolvariants:birch_hoe",
+
+            "woodentoolvariants:warped_pickaxe",
+            "woodentoolvariants:warped_sword",
+            "woodentoolvariants:warped_axe",
+            "woodentoolvariants:warped_shovel",
+            "woodentoolvariants:warped_hoe",
+
+            "woodentoolvariants:crimson_pickaxe",
+            "woodentoolvariants:crimson_sword",
+            "woodentoolvariants:crimson_axe",
+            "woodentoolvariants:crimson_shovel",
+            "woodentoolvariants:crimson_hoe",
+
+            "woodentoolvariants:mangrove_pickaxe",
+            "woodentoolvariants:mangrove_sword",
+            "woodentoolvariants:mangrove_axe",
+            "woodentoolvariants:mangrove_shovel",
+            "woodentoolvariants:mangrove_hoe",
+
+            "woodentoolvariants:cherry_pickaxe",
+            "woodentoolvariants:cherry_sword",
+            "woodentoolvariants:cherry_axe",
+            "woodentoolvariants:cherry_shovel",
+            "woodentoolvariants:cherry_hoe",
+
+            "woodentoolvariants:dark_oak_pickaxe",
+            "woodentoolvariants:dark_oak_sword",
+            "woodentoolvariants:dark_oak_axe",
+            "woodentoolvariants:dark_oak_shovel",
+            "woodentoolvariants:dark_oak_hoe",
+
+            "woodentoolvariants:spruce_pickaxe",
+            "woodentoolvariants:spruce_sword",
+            "woodentoolvariants:spruce_axe",
+            "woodentoolvariants:spruce_shovel",
+            "woodentoolvariants:spruce_hoe",
+
+            "woodentoolvariants:acacia_pickaxe",
+            "woodentoolvariants:acacia_sword",
+            "woodentoolvariants:acacia_axe",
+            "woodentoolvariants:acacia_shovel",
+            "woodentoolvariants:acacia_hoe",
+
+            "woodentoolvariants:bamboo_pickaxe",
+            "woodentoolvariants:bamboo_sword",
+            "woodentoolvariants:bamboo_axe",
+            "woodentoolvariants:bamboo_shovel",
+            "woodentoolvariants:bamboo_hoe",
+
+            "woodentoolvariants:jungle_pickaxe",
+            "woodentoolvariants:jungle_sword",
+            "woodentoolvariants:jungle_axe",
+            "woodentoolvariants:jungle_shovel",
+            "woodentoolvariants:jungle_hoe"
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+  "item.woodentoolvariants.birch_pickaxe": "Birch Pickaxe",
+  "item.woodentoolvariants.birch_sword": "Birch Sword",
+  "item.woodentoolvariants.birch_axe": "Birch Axe",
+  "item.woodentoolvariants.birch_shovel": "Birch Shovel",
+  "item.woodentoolvariants.birch_hoe": "Birch Hoe",
+
+  "item.woodentoolvariants.warped_axe": "Warped Axe",
+  "item.woodentoolvariants.warped_pickaxe": "Warped Pickaxe",
+  "item.woodentoolvariants.warped_sword": "Warped Sword",
+  "item.woodentoolvariants.warped_shovel": "Warped Shovel",
+  "item.woodentoolvariants.warped_hoe": "Warped Hoe",
+
+  "item.woodentoolvariants.crimson_axe": "Crimson Axe",
+  "item.woodentoolvariants.crimson_pickaxe": "Crimson Pickaxe",
+  "item.woodentoolvariants.crimson_sword": "Crimson Sword",
+  "item.woodentoolvariants.crimson_shovel": "Crimson Shovel",
+  "item.woodentoolvariants.crimson_hoe": "Crimson Hoe",
+
+  "item.woodentoolvariants.mangrove_axe": "Mangrove Axe",
+  "item.woodentoolvariants.mangrove_pickaxe": "Mangrove Pickaxe",
+  "item.woodentoolvariants.mangrove_sword": "Mangrove Sword",
+  "item.woodentoolvariants.mangrove_shovel": "Mangrove Shovel",
+  "item.woodentoolvariants.mangrove_hoe": "Mangrove Hoe",
+
+  "item.woodentoolvariants.cherry_axe": "Cherry Axe",
+  "item.woodentoolvariants.cherry_pickaxe": "Cherry Pickaxe",
+  "item.woodentoolvariants.cherry_sword": "Cherry Sword",
+  "item.woodentoolvariants.cherry_shovel": "Cherry Shovel",
+  "item.woodentoolvariants.cherry_hoe": "Cherry Hoe",
+
+  "item.woodentoolvariants.dark_oak_axe": "Dark Oak Axe",
+  "item.woodentoolvariants.dark_oak_pickaxe": "Dark Oak Pickaxe",
+  "item.woodentoolvariants.dark_oak_sword": "Dark Oak Sword",
+  "item.woodentoolvariants.dark_oak_shovel": "Dark Oak Shovel",
+  "item.woodentoolvariants.dark_oak_hoe": "Dark Oak Hoe",
+
+  "item.woodentoolvariants.spruce_axe": "Spruce Axe",
+  "item.woodentoolvariants.spruce_pickaxe": "Spruce Pickaxe",
+  "item.woodentoolvariants.spruce_sword": "Spruce word",
+  "item.woodentoolvariants.spruce_shovel": "Spruce Shovel",
+  "item.woodentoolvariants.spruce_hoe": "Spruce Hoe",
+
+  "item.woodentoolvariants.acacia_axe": "Acacia Axe",
+  "item.woodentoolvariants.acacia_pickaxe": "Acacia Pickaxe",
+  "item.woodentoolvariants.acacia_sword": "Acacia word",
+  "item.woodentoolvariants.acacia_shovel": "Acacia Shovel",
+  "item.woodentoolvariants.acacia_hoe": "Acacia Hoe",
+
+  "item.woodentoolvariants.jungle_axe": "Jungle Axe",
+  "item.woodentoolvariants.jungle_pickaxe": "Jungle Pickaxe",
+  "item.woodentoolvariants.jungle_sword": "Jungle Sword",
+  "item.woodentoolvariants.jungle_shovel": "Jungle Shovel",
+  "item.woodentoolvariants.jungle_hoe": "Jungle Hoe",
+
+  "item.woodentoolvariants.bamboo_axe": "Bamboo Axe",
+  "item.woodentoolvariants.bamboo_pickaxe": "Bamboo Pickaxe",
+  "item.woodentoolvariants.bamboo_sword": "Bamboo Sword",
+  "item.woodentoolvariants.bamboo_shovel": "Bamboo Shovel",
+  "item.woodentoolvariants.bamboo_hoe": "Bamboo Hoe",
+
+
+  "creativetab.wooden_tool_variants_tab": "Wooden Tool Variants"
+}

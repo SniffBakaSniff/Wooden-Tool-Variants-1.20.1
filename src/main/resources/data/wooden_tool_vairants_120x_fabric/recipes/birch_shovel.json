@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "forge:rods/wooden"
+    },
+    "X": {
+      "item": "minecraft:birch_planks"
+    }
+  },
+  "pattern": [
+    " X ",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "woodentoolvariants:birch_shovel"
+  },
+  "show_notification": true
+}

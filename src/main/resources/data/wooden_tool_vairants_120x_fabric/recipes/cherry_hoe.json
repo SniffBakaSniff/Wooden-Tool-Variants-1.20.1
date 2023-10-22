@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "forge:rods/wooden"
+    },
+    "X": {
+      "item": "minecraft:cherry_planks"
+    }
+  },
+  "pattern": [
+    "XX ",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "woodentoolvariants:cherry_hoe"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "forge:rods/wooden"
+    },
+    "X": {
+      "item": "minecraft:acacia_planks"
+    }
+  },
+  "pattern": [
+    "XX ",
+    "X# ",
+    " # "
+  ],
+  "result": {
+    "item": "woodentoolvariants:acacia_axe"
+  },
+  "show_notification": true
+}
