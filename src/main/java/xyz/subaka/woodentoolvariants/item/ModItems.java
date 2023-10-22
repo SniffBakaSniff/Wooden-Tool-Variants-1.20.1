@@ -124,6 +124,10 @@ public class ModItems {
             () -> new HoeItem(Tiers.WOOD, 0, -3, new Item.Properties()));
 
 
+    public static final RegistryObject<Item> ICON = ITEMS.register("icon",
+            () -> new Item(new Item.Properties()));
+
+
 
 
 

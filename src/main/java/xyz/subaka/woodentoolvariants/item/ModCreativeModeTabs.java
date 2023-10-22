@@ -16,7 +16,7 @@ public class ModCreativeModeTabs {
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, WoodenToolVariants.MOD_ID);
 
     public static final RegistryObject<CreativeModeTab> WOODEN_TOOL_VARIANTS_TAB = CREATIVE_MODE_TABS.register("wooden_tool_variants",
-            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.WARPED_AXE.get()))
+            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.ICON.get()))
                     .title(Component.translatable("creativetab.wooden_tool_variants_tab"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(Items.WOODEN_SWORD);
