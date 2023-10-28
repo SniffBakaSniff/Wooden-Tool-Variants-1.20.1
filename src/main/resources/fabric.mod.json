@@ -2,17 +2,18 @@
 	"schemaVersion": 1,
 	"id": "woodentoolvariants",
 	"version": "${version}",
-	"name": "wooden_tool_vairants_1.20.x_fabric",
+	"name": "Wooden Tool Variants",
 	"description": "Adds wooden tools for each wood type!",
 	"authors": [
-		"Me!"
+		"Subaka",
+		"LieOnLion"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/wooden-tool-variants",
+		"sources": "https://github.com/SniffBakaSniff/Wooden-Tool-Variants-1.20.1"
 	},
-	"license": "CC0-1.0",
-	"icon": "assets/wooden_tool_variants_120x_fabric/icon.png",
+	"license": "MIT",
+	"icon": "logo.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -23,7 +24,7 @@
 
 	"depends": {
 		"fabricloader": ">=0.14.23",
-		"minecraft": "~1.20.1",
+		"minecraft": "~1.20",
 		"java": ">=17",
 		"fabric-api": "*"
 	},
