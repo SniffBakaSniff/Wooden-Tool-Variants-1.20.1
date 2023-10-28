@@ -3,7 +3,7 @@
   "category": "equipment",
   "key": {
     "#": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     },
     "X": {
       "item": "minecraft:cherry_planks"
