@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "woodentoolvariants:birch_sword",
+    "woodentoolvariants:mangrove_sword",
+    "woodentoolvariants:cherry_sword",
+    "woodentoolvariants:dark_oak_sword",
+    "woodentoolvariants:spruce_sword",
+    "woodentoolvariants:acacia_sword",
+    "woodentoolvariants:bamboo_sword",
+    "woodentoolvariants:jungle_sword",
+    "woodentoolvariants:warped_sword",
+    "woodentoolvariants:crimson_sword"
+  ]
+}

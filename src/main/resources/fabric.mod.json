@@ -26,8 +26,11 @@
 		"fabricloader": ">=0.14.23",
 		"minecraft": "~1.20",
 		"java": ">=17",
-		"fabric-api": "*"
+		"fabric-api": "*",
+		"quad": ">=1.0.1"
 	},
+
+
 	"suggests": {
 		"another-mod": "*"
 	}

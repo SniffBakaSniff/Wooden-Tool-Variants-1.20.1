@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "woodentoolvariants:birch_axe",
+    "woodentoolvariants:mangrove_axe",
+    "woodentoolvariants:cherry_axe",
+    "woodentoolvariants:dark_oak_axe",
+    "woodentoolvariants:spruce_axe",
+    "woodentoolvariants:acacia_axe",
+    "woodentoolvariants:bamboo_axe",
+    "woodentoolvariants:jungle_axe",
+    "woodentoolvariants:warped_axe",
+    "woodentoolvariants:crimson_axe"
+  ]
+}

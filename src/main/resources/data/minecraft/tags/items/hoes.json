@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "woodentoolvariants:birch_hoe",
+    "woodentoolvariants:mangrove_hoe",
+    "woodentoolvariants:cherry_hoe",
+    "woodentoolvariants:dark_oak_hoe",
+    "woodentoolvariants:spruce_hoe",
+    "woodentoolvariants:acacia_hoe",
+    "woodentoolvariants:bamboo_hoe",
+    "woodentoolvariants:jungle_hoe",
+    "woodentoolvariants:warped_hoe",
+    "woodentoolvariants:crimson_hoe"
+  ]
+}

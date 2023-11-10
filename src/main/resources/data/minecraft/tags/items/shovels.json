@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "woodentoolvariants:birch_shovel",
+    "woodentoolvariants:mangrove_shovel",
+    "woodentoolvariants:cherry_shovel",
+    "woodentoolvariants:dark_oak_shovel",
+    "woodentoolvariants:spruce_shovel",
+    "woodentoolvariants:acacia_shovel",
+    "woodentoolvariants:bamboo_shovel",
+    "woodentoolvariants:jungle_shovel",
+    "woodentoolvariants:warped_shovel",
+    "woodentoolvariants:crimson_shovel"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "woodentoolvariants:birch_pickaxe",
+    "woodentoolvariants:mangrove_pickaxe",
+    "woodentoolvariants:cherry_pickaxe",
+    "woodentoolvariants:dark_oak_pickaxe",
+    "woodentoolvariants:spruce_pickaxe",
+    "woodentoolvariants:acacia_pickaxe",
+    "woodentoolvariants:bamboo_pickaxe",
+    "woodentoolvariants:jungle_pickaxe",
+    "woodentoolvariants:warped_pickaxe",
+    "woodentoolvariants:crimson_pickaxe"
+  ]
+}
